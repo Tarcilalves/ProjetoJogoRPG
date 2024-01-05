@@ -12,7 +12,7 @@ www.dio.me
 •	Polimorfismo
 
 ## Contexto
-Modelar um sistema de jogo tipo RPG. Para isso, foi solicitado que você faça uma abstração dos personagens e que cada heroi terem seu próprio comportamento de ataque, possibilitando um maior reuso de código e usando a orientação a objetos.
+Modelar um sistema de jogo tipo RPG. Para isso, foi solicitado para fazer uma abstração dos personagens e que cada heroi terem seu próprio comportamento de ataque, possibilitando um maior reuso de código e usando a orientação a objetos.
 
 ## Proposta
 
