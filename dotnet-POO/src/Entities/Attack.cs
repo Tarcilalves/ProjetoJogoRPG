@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace dotnet_POO.src.Entities
 {
-    public class Attack : Hero
+    public class Attack : Personagem
     {
         
         //Construtor

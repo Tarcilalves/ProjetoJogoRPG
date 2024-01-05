@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace dotnet_POO.src.Entities
 {
-    public class BlackWizard : Hero
+    public class BlackWizard : Personagem
     {
         // classe contrutora
         public Attack blackWizardAttack;

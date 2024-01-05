@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 namespace dotnet_POO.src.Entities
 {
     //Forma para criar o objeto
-    public class Hero 
+    public abstract class Personagem
     {
         //construtor 
-        public Hero(string name, int level, int hitPoints, int magicPoint, string heroType, string attackType) 
+        public Personagem(string name, int level, int hitPoints, int magicPoint, string heroType, string attackType) 
         {
             Name = name;
             Level = level;
@@ -23,7 +23,7 @@ namespace dotnet_POO.src.Entities
         }
 
         //construtor vazio
-        public Hero()
+        public Personagem()
         {
 
         }

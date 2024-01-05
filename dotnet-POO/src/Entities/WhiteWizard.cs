@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace dotnet_POO.src.Entities
 {
-    public class WhiteWizard : Hero
+    public class WhiteWizard : Personagem
     {
          public Attack whiteWizardAttack;
 

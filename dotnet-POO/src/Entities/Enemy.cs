@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace dotnet_POO.src.Entities
 {
-    public abstract class Enemy : Hero
+    public abstract class Enemy : Personagem
     {
         // Construtor
         public Enemy(string name, int level, int hitPoints, int magicPoint, string enemyType, string attackType) 
