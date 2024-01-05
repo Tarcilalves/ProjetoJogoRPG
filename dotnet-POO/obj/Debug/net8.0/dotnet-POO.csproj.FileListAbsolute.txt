@@ -1,0 +1,14 @@
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\bin\Debug\net8.0\dotnet-POO.exe
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\bin\Debug\net8.0\dotnet-POO.deps.json
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\bin\Debug\net8.0\dotnet-POO.runtimeconfig.json
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\bin\Debug\net8.0\dotnet-POO.dll
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\bin\Debug\net8.0\dotnet-POO.pdb
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.AssemblyInfoInputs.cache
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.AssemblyInfo.cs
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.dll
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\refint\dotnet-POO.dll
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.pdb
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\dotnet-POO.genruntimeconfig.cache
+C:\Users\User\Documents\projetoJogoRPG\dotnet-POO\obj\Debug\net8.0\ref\dotnet-POO.dll
